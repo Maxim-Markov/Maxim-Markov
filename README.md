@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
 
+My name is Maxim Markov. I am a Java Developer. Living in Saint-Petersburg, nowadays studying in ITMO University up to the March,2022. My hobby is Android development and swimming.
 <!--
 **Maxim-Markov/Maxim-Markov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
