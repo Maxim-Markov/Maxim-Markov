@@ -7,18 +7,22 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=java&logoColor=red&color=brightgreen)
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=plastic&logo=kotlin&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Language-C%20Sharp-informational?style=plastic&logo=CSharp&logoColor=white&color=brightgreen)  
+![](https://img.shields.io/badge/Language-C%20Sharp-informational?style=plastic&logo=CSharp&logoColor=white&color=brightgreen)
+
 ![](https://img.shields.io/badge/Spring-Spring%20Framework-black?style=flat&logo=spring&logoColor=6DB33F&color=blueviolet)
 ![](https://img.shields.io/badge/Spring-Spring%20Boot-black?style=flat&logo=spring-boot&logoColor=6DB33F&color=blueviolet)
-![](https://img.shields.io/badge/Spring-Spring%20Security-black?style=flat&logo=Spring-Security&logoColor=6DB33F&color=blueviolet)  
-![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=005F0F&color=2bbc8a)  
+![](https://img.shields.io/badge/Spring-Spring%20Security-black?style=flat&logo=Spring-Security&logoColor=6DB33F&color=blueviolet) 
+![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=005F0F&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DB-MySQL-CC2927?style=flat&logo=mysql&logoColor=white1&color=4479A1)
 ![](https://img.shields.io/badge/DB-PostgreSQL-CC2927?style=flat&logo=postgresql&logoColor=white&color=4169E1)
-![](https://img.shields.io/badge/DB-SQLite-CC2927?style=flat&logo=SQLite&logoColor=white&color=003B57
-![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=59666C)  
+![](https://img.shields.io/badge/DB-SQLite-CC2927?style=flat&logo=SQLite&logoColor=003B57&color=003B57)
+![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=59666C)
+
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=black&color=black)
 ![](https://img.shields.io/badge/Editor-Android%20Studio-informational?style=flat&logo=AndroidStudio&logoColor=3DDC84&color=black)
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=VisualStudio&logoColor=5C2D91&color=black)  
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=VisualStudio&logoColor=5C2D91&color=black)
+
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=C71A36&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=02303A)
 
