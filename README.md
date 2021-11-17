@@ -4,7 +4,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 
 
 
-Just for testing purposes
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
@@ -22,6 +22,8 @@ Just for testing purposes
 ![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a)
 
+## :bookmark: Other
+     
 I know the following programming languages: С / С ++, С # (WPF, .Net Framework, ASP.Net MVC, Entity Framework), Kotlin (in relation to Android).
 I own the following technologies in relation to development for Android: Kotlin coroutines, RXJava, Retrofit, Picasso, OpenGL basics, animation, etc.
 • have experience in programming STM32 microcontrollers
