@@ -7,7 +7,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=java&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=plastic&logo=kotlin&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Language-C#-informational?style=plastic&logo=C Sharp&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Language-C sharp-informational?style=plastic&logo=C Sharp&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=Spring-Security&logoColor=white&color=2bbc8a)
