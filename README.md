@@ -1,6 +1,8 @@
 ### Hi everyone 👋
 
-My name is Maxim Markov. I am a Java Developer. Living in Saint-Petersburg, nowadays studying in ITMO University up to the March,2022. My hobby is Android development and motocross. 
+My name is Maxim Markov. I am a Java developer. The main direction is Web development on Spring MVS. I live in Saint-Petersburg and I am currently completing a master's degree at ITMO University. My hobbies are Android development and motocross.
+
+
 
 Just for testing purposes
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -19,17 +21,9 @@ Just for testing purposes
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a)
-<!--
-**Maxim-Markov/Maxim-Markov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know the following programming languages: С / С ++, С # (WPF, .Net Framework, ASP.Net MVC, Entity Framework), Kotlin (in relation to Android).
+I own the following technologies in relation to development for Android: Kotlin coroutines, RXJava, Retrofit, Picasso, OpenGL basics, animation, etc.
+• have experience in programming STM32 microcontrollers
+• have experience in creating software for a remotely controlled robotic platform
+• have experience in PCB design
