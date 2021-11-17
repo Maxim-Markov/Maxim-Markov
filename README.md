@@ -11,9 +11,9 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 ![](https://img.shields.io/badge/Spring-Spring%20Framework-black?style=flat&logo=spring&logoColor=6DB33F&color=blueviolet)
 ![](https://img.shields.io/badge/Spring-Spring%20Boot-black?style=flat&logo=spring-boot&logoColor=6DB33F&color=blueviolet)
 ![](https://img.shields.io/badge/Spring-Spring%20Security-black?style=flat&logo=Spring-Security&logoColor=6DB33F&color=blueviolet)  
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=lightgray)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=4169E1&color=lightgray)
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=003B57&color=lightgray)  
+![](https://img.shields.io/badge/DB-MySQL-CC2927?style=flat&logo=mysql&logoColor=4479A1&color=lightgray)
+![](https://img.shields.io/badge/DB-PostgreSQL-CC2927?style=flat&logo=postgresql&logoColor=4169E1&color=lightgray)
+![](https://img.shields.io/badge/DB-SQLite-CC2927?style=flat&logo=SQLite&logoColor=003B57&color=lightgray)  
 
 ![](https://img.shields.io/badge/Tools-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -36,6 +36,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 - Kotlin coroutines
 - RXJava
 - Retrofit, Picasso
+- Room
 - OpenGL basics, animation, etc.
 ### Morover:
 - have experience in programming STM32 microcontrollers
