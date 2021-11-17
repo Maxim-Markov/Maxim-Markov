@@ -33,7 +33,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 
 ![](https://img.shields.io/badge/Microcontrollers-STM32-informational?style=flat&logo=STMicroelectronics&logoColor=03234B&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Markov&layout=compact)](https://github.com/Maxim-Markov/Maxim-Markov)
 
 ## :bookmark: Other
      
