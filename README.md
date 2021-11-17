@@ -24,8 +24,16 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 
 ## :bookmark: Other
      
-I know the following programming languages: С / С ++, С # (WPF, .Net Framework, ASP.Net MVC, Entity Framework), Kotlin (in relation to Android).
-I own the following technologies in relation to development for Android: Kotlin coroutines, RXJava, Retrofit, Picasso, OpenGL basics, animation, etc.
+### I know the following programming languages:
+- С/С ++
+- С#(WPF, .Net Framework, ASP.Net MVC, Entity Framework)
+- Kotlin (in relation to Android).
+### I know the following technologies in relation to development for Android:
+- Kotlin coroutines
+- RXJava
+- Retrofit, Picasso
+- OpenGL basics, animation, etc.
+### Morover:
 - have experience in programming STM32 microcontrollers
 - have experience in creating software for a remotely controlled robotic platform
 - have experience in PCB design
