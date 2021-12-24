@@ -8,6 +8,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 ![](https://img.shields.io/badge/Language-Java-informational?style=plastic&logo=java&logoColor=red&color=brightgreen)
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=plastic&logo=kotlin&logoColor=7F52FF&color=brightgreen)
 ![](https://img.shields.io/badge/Language-C%20Sharp-informational?style=plastic&logo=CSharp&logoColor=239120&color=brightgreen)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=javascript&logoColor=F7DF1E&color=brightgreen)
 
 ![](https://img.shields.io/badge/Spring-Spring%20Framework-black?style=flat&logo=spring&logoColor=6DB33F&color=blueviolet)
 ![](https://img.shields.io/badge/Spring-Spring%20Boot-black?style=flat&logo=spring-boot&logoColor=6DB33F&color=blueviolet)
@@ -29,7 +30,7 @@ My name is Maxim Markov. I am a Java developer. The main direction is Web develo
 ![](https://img.shields.io/badge/Front-HTML-informational?style=flat&logo=html5&logoColor=E34F26&color=2bbc8a)
 ![](https://img.shields.io/badge/Front-CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=2bbc8a)
 ![](https://img.shields.io/badge/Front-BootStrap-informational?style=flat&logo=bootstrap&logoColor=7952B3&color=2bbc8a)
-![](https://img.shields.io/badge/Front-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=2bbc8a)
+![](https://img.shields.io/badge/Front-JQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Microcontrollers-STM32-informational?style=flat&logo=STMicroelectronics&logoColor=03234B&color=2bbc8a)
 
